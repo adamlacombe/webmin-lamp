@@ -1,0 +1,6 @@
+FROM adamlacombe/webmin-php7-1
+
+EXPOSE 80
+EXPOSE 443
+EXPOSE 10000
+EXPOSE 22
